@@ -1,0 +1,6 @@
+{
+  "name": "CallAgent AI",
+  "description": "Outbound SIM campaign call agent powered by Omnidimension API & Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
